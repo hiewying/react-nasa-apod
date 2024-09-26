@@ -1,5 +1,5 @@
-# APOD Project in React
-Display Astronomy Picture of the Day (APOD) using Nasa API and React
+# APOD Project in React JS
+Display Astronomy Picture of the Day (APOD) using Nasa API and React JS
 
 ![img1](https://github.com/user-attachments/assets/11615ad3-fc46-465f-ac6d-78e31000f33c)
 
